@@ -48,3 +48,4 @@ Learn more at [James Hoffmann](https://www.youtube.com/@jameshoffmann).
 
 ```bash
 echo "brew coffee"
+```
